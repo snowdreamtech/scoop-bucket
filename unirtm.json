@@ -1,0 +1,29 @@
+{
+    "version": "0.20.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.20.0/unirtm_Windows_i386.zip",
+            "bin": [
+                "unirtm_Windows_i386/unirtm.exe"
+            ],
+            "hash": "d15196f92ddbfb47c8185dd44dfb0e644d357476004c90e17b2568be3ad88c96"
+        },
+        "64bit": {
+            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.20.0/unirtm_Windows_x86_64.zip",
+            "bin": [
+                "unirtm_Windows_x86_64/unirtm.exe"
+            ],
+            "hash": "5533ada704b1c664527053715bb1d2b89fdf2280470b511fb56f7492f382005c"
+        },
+        "arm64": {
+            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.20.0/unirtm_Windows_arm64.zip",
+            "bin": [
+                "unirtm_Windows_arm64/unirtm.exe"
+            ],
+            "hash": "d5c262495c6fae65ec4580818d27aefb72375dfaada05861c279152a39e13631"
+        }
+    },
+    "homepage": "https://github.com/snowdreamtech/UniRTM",
+    "license": "MIT",
+    "description": "UniRTM (Uni Runtime and Tools Manager) is a cross-platform developer toolchain manager."
+}
