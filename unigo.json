@@ -1,0 +1,29 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.1/unigo_Windows_i386.zip",
+            "bin": [
+                "unigo_Windows_i386/unigo.exe"
+            ],
+            "hash": "a7d5b7444f9becde34cca6982c83a147b121232f0df68f001530a64b10a46945"
+        },
+        "64bit": {
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.1/unigo_Windows_x86_64.zip",
+            "bin": [
+                "unigo_Windows_x86_64/unigo.exe"
+            ],
+            "hash": "99762b117da38d10b09118b350044133d03fd4079bb245a45bf6a596d81f4c09"
+        },
+        "arm64": {
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.1/unigo_Windows_arm64.zip",
+            "bin": [
+                "unigo_Windows_arm64/unigo.exe"
+            ],
+            "hash": "fb8bda43bbde557c6ea5d21c6cbd0c5ee1eb99cf75ba8a15ae67ef65f10525b9"
+        }
+    },
+    "homepage": "https://github.com/snowdreamtech/unigo",
+    "license": "MIT",
+    "description": "Snowdream Tech AI IDE Template is an enterprise-grade, foundational template designed for multi-AI IDE collaboration."
+}
