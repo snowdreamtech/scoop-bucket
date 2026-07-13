@@ -1,0 +1,29 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.1/unistack_Windows_i386.zip",
+            "bin": [
+                "unistack_Windows_i386/unistack.exe"
+            ],
+            "hash": "952043b53be2d4eaa01b113827aa0c8012960222ee5792b4b9335295d6b1039b"
+        },
+        "64bit": {
+            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.1/unistack_Windows_x86_64.zip",
+            "bin": [
+                "unistack_Windows_x86_64/unistack.exe"
+            ],
+            "hash": "5b4b4f246ea4ffbf83aa983676e52e3ebbd958602899d657351cfa1cd84fce3d"
+        },
+        "arm64": {
+            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.1/unistack_Windows_arm64.zip",
+            "bin": [
+                "unistack_Windows_arm64/unistack.exe"
+            ],
+            "hash": "a64cca555b70d24c5cd55c36c65670dd1c2c0172ae51311b81ed12a70c4dd27f"
+        }
+    },
+    "homepage": "https://github.com/snowdreamtech/unistack",
+    "license": "MIT",
+    "description": "Snowdream Tech AI IDE Template is an enterprise-grade, foundational template designed for multi-AI IDE collaboration."
+}
