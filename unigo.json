@@ -1,26 +1,26 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.7/unigo_Windows_i386.zip",
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.8/unigo_Windows_i386.zip",
             "bin": [
                 "unigo_Windows_i386/unigo.exe"
             ],
-            "hash": "4939dd990e5f745270bada8054a8c75ba8cbaea938290d72b2e4e709ef1389d3"
+            "hash": "d7b1f49ab5324d00765e93bb53f44f922d8927503791d5340fec6d1a77482294"
         },
         "64bit": {
-            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.7/unigo_Windows_x86_64.zip",
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.8/unigo_Windows_x86_64.zip",
             "bin": [
                 "unigo_Windows_x86_64/unigo.exe"
             ],
-            "hash": "133a8596e48a5af19534f061e8b81d82204554e120cc86db9b92bcc1de244797"
+            "hash": "8d41fa5cf57db58d06da5c9e67cc66bc0a7c8b7a9ea6e5bd199be8ff96301bb4"
         },
         "arm64": {
-            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.7/unigo_Windows_arm64.zip",
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.0.8/unigo_Windows_arm64.zip",
             "bin": [
                 "unigo_Windows_arm64/unigo.exe"
             ],
-            "hash": "62b905dd77535576648caa7d5e200978d4af00322bac1698db5f6bce6a410480"
+            "hash": "1d9d02fc2fa7dd5c81a80b5ce01c1ccdb4640fea81169d6350e235311b3e1545"
         }
     },
     "homepage": "https://github.com/snowdreamtech/unigo",
