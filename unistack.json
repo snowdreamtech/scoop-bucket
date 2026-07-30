@@ -1,26 +1,26 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.5/unistack_Windows_i386.zip",
+            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.6/unistack_Windows_i386.zip",
             "bin": [
                 "unistack_Windows_i386/unistack.exe"
             ],
-            "hash": "0a65d89b65219e3af6442012b8b884b7349dd5410dc5b2c7788bfa5e7a52275e"
+            "hash": "85ae6638cedcb498a03831249578c8c68783ba6055df0770a219cbeb5c90f685"
         },
         "64bit": {
-            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.5/unistack_Windows_x86_64.zip",
+            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.6/unistack_Windows_x86_64.zip",
             "bin": [
                 "unistack_Windows_x86_64/unistack.exe"
             ],
-            "hash": "2f69c56eff85cd950fda1c8337878b33b963ef8ee5535710559ee58c5cc35458"
+            "hash": "2411dbebb1f67779c174c357e1eebb73e19c2d41323192b6ff708f75547959ee"
         },
         "arm64": {
-            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.5/unistack_Windows_arm64.zip",
+            "url": "https://github.com/snowdreamtech/unistack/releases/download/v0.0.6/unistack_Windows_arm64.zip",
             "bin": [
                 "unistack_Windows_arm64/unistack.exe"
             ],
-            "hash": "1a1dfb5a7d988221a789f1affef720756065dc4f2dbdcf47d886281a10538955"
+            "hash": "c1ac019ab27159963fcb39ab8b2e7cc0154fe51fa9e2dde99e9105bb17d83dc5"
         }
     },
     "homepage": "https://github.com/snowdreamtech/unistack",
