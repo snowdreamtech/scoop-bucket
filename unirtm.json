@@ -6,21 +6,21 @@
             "bin": [
                 "unirtm_Windows_i386/unirtm.exe"
             ],
-            "hash": "f861b70d4847073850e9b2be0a41d1256d29052de37829c31010c963878b7c2a"
+            "hash": "ce2a0c0cac8178758cc532e31eb0992ddefd6ff59cba491747bb7e38eddd2019"
         },
         "64bit": {
             "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.27.0/unirtm_Windows_x86_64.zip",
             "bin": [
                 "unirtm_Windows_x86_64/unirtm.exe"
             ],
-            "hash": "2006e7ef9f81fc644223eb5291b846fda138640124c0f085fbf1734cfbad0049"
+            "hash": "8523a9625115e9b5247c7390238677d92ee1b6633309baae49a0e6908e6f2dcf"
         },
         "arm64": {
             "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.27.0/unirtm_Windows_arm64.zip",
             "bin": [
                 "unirtm_Windows_arm64/unirtm.exe"
             ],
-            "hash": "fcbd86446ce6151672c5795f28e8de26728851fd7dc7f5df62816af04ac23401"
+            "hash": "1eae4886655920f6b8de73d0b519c93ac77ae468ffcf26cc3c04a6d36f944e90"
         }
     },
     "homepage": "https://github.com/snowdreamtech/UniRTM",
