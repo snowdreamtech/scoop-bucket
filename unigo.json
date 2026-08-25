@@ -6,21 +6,21 @@
             "bin": [
                 "unigo_Windows_i386/unigo.exe"
             ],
-            "hash": "e44c99c5ab05cdf4745bba1e04863d5169abb678a0fbd1ce43fa14871c5ed7ae"
+            "hash": "8e7b20fd2fd81590b9c9d8c740228c33d7ab0f420e118f868f25f15e54305f80"
         },
         "64bit": {
             "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.1.1/unigo_Windows_x86_64.zip",
             "bin": [
                 "unigo_Windows_x86_64/unigo.exe"
             ],
-            "hash": "adc919423746dc0d73fc0aa6da26b527ef363636e8143aeadb66fc7c2df38b59"
+            "hash": "bc08b7b2e2431ba75bad42f2f86903ce25f6f3674f28fd8678dd2b6eb5738b69"
         },
         "arm64": {
             "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.1.1/unigo_Windows_arm64.zip",
             "bin": [
                 "unigo_Windows_arm64/unigo.exe"
             ],
-            "hash": "db0ab00e572c1eac33d2575311c67c8ce161cafb10c962a0cf385e45edbe6240"
+            "hash": "ba5f3a0ab6b0b92f7c451965af5f25fc779d46941392d80fd2ed46e4061e91e3"
         }
     },
     "homepage": "https://github.com/snowdreamtech/unigo",
