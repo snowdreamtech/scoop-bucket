@@ -1,26 +1,26 @@
 {
-    "version": "0.29.0",
+    "version": "0.29.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.29.0/unirtm_Windows_i386.zip",
+            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.29.1/unirtm_Windows_i386.zip",
             "bin": [
                 "unirtm_Windows_i386/unirtm.exe"
             ],
-            "hash": "527495ffce6b30bce9f42f1fd3cc0046a97a509df541bb85bad59abbbbc1ca29"
+            "hash": "38236eb29824d77e9049c929890fae7895f7c69d8b6517253963e785e190baa5"
         },
         "64bit": {
-            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.29.0/unirtm_Windows_x86_64.zip",
+            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.29.1/unirtm_Windows_x86_64.zip",
             "bin": [
                 "unirtm_Windows_x86_64/unirtm.exe"
             ],
-            "hash": "e1ed28ead6529c75845c19bbbba2fa1321806dcfdb2ec8226d7a75c00cd2a11b"
+            "hash": "08460e52edcc96b86455631bb6fcc54d665a613ded38bfb3d6eb5d87f0b04c2c"
         },
         "arm64": {
-            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.29.0/unirtm_Windows_arm64.zip",
+            "url": "https://github.com/snowdreamtech/UniRTM/releases/download/v0.29.1/unirtm_Windows_arm64.zip",
             "bin": [
                 "unirtm_Windows_arm64/unirtm.exe"
             ],
-            "hash": "0570ef82b05b2d1d825baed3d6e7e4ba6f34c7870f35af812cd7814481e4b83c"
+            "hash": "a38dbb10626e95f6c1cffdd56922a737338d4856fa5e23cc2a601f697ca6a7a0"
         }
     },
     "homepage": "https://github.com/snowdreamtech/UniRTM",
