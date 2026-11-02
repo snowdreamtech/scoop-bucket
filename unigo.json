@@ -1,29 +1,29 @@
 {
-    "version": "0.2.0",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.2.0/unigo_Windows_i386.zip",
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.4.0/unigo_0.4.0_windows_386.zip",
             "bin": [
-                "unigo_Windows_i386/unigo.exe"
+                "unigo_0.4.0_windows_386/unigo.exe"
             ],
-            "hash": "ada70410c2d2084082396f8683f107dbe4b72ba810d6b4ce96e1fcc96a815cef"
+            "hash": "b549c6d2af214a46fc054c1f06eb1e021a3a8a00a2f106ea6587276b7d48b215"
         },
         "64bit": {
-            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.2.0/unigo_Windows_x86_64.zip",
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.4.0/unigo_0.4.0_windows_amd64.zip",
             "bin": [
-                "unigo_Windows_x86_64/unigo.exe"
+                "unigo_0.4.0_windows_amd64/unigo.exe"
             ],
-            "hash": "04e8c743081143301481b39a0e2ac17d658447c57f160c2b3a5641735d3d9112"
+            "hash": "e8f7f7bd939eb670165b94ac0e3c65fb3e1bcb4d8cce6c343d650e08286773a7"
         },
         "arm64": {
-            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.2.0/unigo_Windows_arm64.zip",
+            "url": "https://github.com/snowdreamtech/unigo/releases/download/v0.4.0/unigo_0.4.0_windows_arm64.zip",
             "bin": [
-                "unigo_Windows_arm64/unigo.exe"
+                "unigo_0.4.0_windows_arm64/unigo.exe"
             ],
-            "hash": "17e2ff2964d1719416254b61de924c18b41fddc01fc0bf8b5ebfea5fd1abc581"
+            "hash": "a64cf212ab53f070e1f35e2ea8886ca679670ebf6ba0573900e647da36bd7171"
         }
     },
     "homepage": "https://github.com/snowdreamtech/unigo",
     "license": "MIT",
-    "description": "Snowdream Tech AI IDE Template is an enterprise-grade, foundational template designed for multi-AI IDE collaboration."
+    "description": "UniGo is a fast, flexible, and enterprise-grade Golang CLI application and foundational template."
 }
